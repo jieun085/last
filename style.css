@@ -1,0 +1,20 @@
+.btn-outline-success {
+    color: #74acff;
+    border-color: #74acff;
+  }
+  
+  .btn-outline-success:hover{
+    background-color: #74acff;
+    color: white;
+    border-color: #74acff;
+  }
+
+  .carousel-item {
+    padding: 0 15%; /* 양쪽 여백을 15%로 설정 */
+  }
+
+  .carousel-item img {
+    width: 100%;
+    height: 500px; /* 원하는 높이 값으로 설정 */
+    object-fit: cover; /* 이미지가 요소에 맞게 조절되며 잘리지 않도록 설정 */
+  }
